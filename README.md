@@ -1,5 +1,5 @@
-<H3>Enter Name: tamizh selvan</H3>
-<H3>Enter Register No: 212222230158</H3>
+<H3>Enter Name: Kathir VS</H3>
+<H3>Enter Register No: 212221040075</H3>
 <H3>Experiment 2</H3>
 <H3>Date:02-09-2024</H3>
 <h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
